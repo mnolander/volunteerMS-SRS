@@ -9,61 +9,35 @@
 
 **November 30, 2022**
 
-**Table of Contents**
-
-[**1. Introduction](#_heading=h.1fob9te)	**1****
-
-[1.1 Purpose](#_heading=h.3znysh7)	1
-
-[1.2 Document Conventions](#_heading=h.pjph0n7e39qy)	1
-
-[1.3 Intended Audience and Reading Suggestions](#_heading=h.c4osq885r415)	1
-
-[1.4 Product Scope](#_heading=h.6yx2wljustti)	1
-
-[1.5 References](#_heading=h.plk04vhf3qd7)	1
-
-[**2. Overall Description](#_heading=h.k3ifb3nv0yt3)	**1****
-
-[2.1 Product Perspective](#_heading=h.2s8eyo1)	1
-
-[2.2 Product Functions](#_heading=h.9pq09jdzlse0)	2
-
-[2.3 User Classes and Characteristics](#_heading=h.djamipd43vl)	3
-
-[2.4 Operating Environment](#_heading=h.sykatqjn3d7e)	4
-
-[2.5 Design and Implementation Constraints](#_heading=h.yqwrv1hc2bg9)	4
-
-[2.6 User Documentation](#_heading=h.hki2xesutt40)	4
-
-[2.7 Assumptions and Dependencies](#_heading=h.s3mdhqdbv6ko)	4
-
-[**3. External Interface Requirements](#_heading=h.t0kfkhgjq6k4)	**5****
-
-[3.1 User Interfaces](#_heading=h.2jxsxqh)	5
-
-[3.2 Hardware Interfaces](#_heading=h.wpq9rbbdtdj0)	6
-
-[3.3 Software Interfaces](#_heading=h.gm1hlw49qj49)	6
-
-[3.4 Communications Interfaces](#_heading=h.sdk4jzeccb0n)	6
-
-[**4. System Features](#_heading=h.jj02vhinceu7)	**7****
-
-[**5. Other Nonfunctional Requirements](#_heading=h.3whwml4)	**7****
-
-[5.1 Performance Requirements](#_heading=h.2bn6wsx)	7
-
-[5.2 Safety Requirements](#_heading=h.oh2dxsvaqsv9)	8
-
-[5.3 Security Requirements](#_heading=h.j355kia5lw8)	8
-
-[5.4 Software Quality Attributes](#_heading=h.392cs6z4bafu)	8
-
-[5.5 Business Rules](#_heading=h.iv7er9jux8o)	8
-
-[**6. Other Requirements](#_heading=h.ifq1yhklngb6)	**8****
+|**Table of Contents**|
+|:-|
+|[**1. Introduction**](#_heading=h.1fob9te)|
+|[1.1 Purpose](#_heading=h.3znysh7)|
+|[1.2 Document Conventions](#_heading=h.pjph0n7e39qy)|
+|[1.3 Intended Audience and Reading Suggestions](#_heading=h.c4osq885r415)|
+|[1.4 Product Scope](#_heading=h.6yx2wljustti)|
+|[1.5 References](#_heading=h.plk04vhf3qd7)|
+|[**2. Overall Description**](#_heading=h.k3ifb3nv0yt3)|
+|[2.1 Product Perspective](#_heading=h.2s8eyo1)|
+|[2.2 Product Functions](#_heading=h.9pq09jdzlse0)|
+|[2.3 User Classes and Characteristics](#_heading=h.djamipd43vl)|
+|[2.4 Operating Environment](#_heading=h.sykatqjn3d7e)|
+|[2.5 Design and Implementation Constraints](#_heading=h.yqwrv1hc2bg9)|
+|[2.6 User Documentation](#_heading=h.hki2xesutt40)|
+|[2.7 Assumptions and Dependencies](#_heading=h.s3mdhqdbv6ko)|
+|[**3. External Interface Requirements**](#_heading=h.t0kfkhgjq6k4)|
+|[3.1 User Interfaces](#_heading=h.2jxsxqh)|
+|[3.2 Hardware Interfaces](#_heading=h.wpq9rbbdtdj0)|
+|[3.3 Software Interfaces](#_heading=h.gm1hlw49qj49)|
+|[3.4 Communications Interfaces](#_heading=h.sdk4jzeccb0n)|
+|[**4. System Features**](#_heading=h.jj02vhinceu7)|
+|[**5. Other Nonfunctional Requirements**](#_heading=h.3whwml4)|
+|[5.1 Performance Requirements](#_heading=h.2bn6wsx)|
+|[5.2 Safety Requirements](#_heading=h.oh2dxsvaqsv9)|
+|[5.3 Security Requirements](#_heading=h.j355kia5lw8)|
+|[5.4 Software Quality Attributes](#_heading=h.392cs6z4bafu)|
+|[5.5 Business Rules](#_heading=h.iv7er9jux8o)|
+|[**6. Other Requirements**](#_heading=h.ifq1yhklngb6)|
 
 
 **Revision History**
@@ -232,7 +206,7 @@ No hardware interfaces have been identified for the Volunteer Management System.
 No other requirements have been identified for the Volunteer Management System.
 
 
-**Appendix A: Glossary**
+# **Appendix A: Glossary**
 
 |**Term**|**Definition**|
 | :- | :- |
@@ -240,7 +214,7 @@ No other requirements have been identified for the Volunteer Management System.
 |SPCC|Senior People Care Center|
 |Case|Assistance request assigned to one volunteer|
 
-**Appendix B: Analysis Models**
+# **Appendix B: Analysis Models**
 
 ![](Aspose.Words.5035aac1-2b61-4001-ada1-243b8691026c.005.png)
 
@@ -258,6 +232,6 @@ No other requirements have been identified for the Volunteer Management System.
 |Requester name|Name of requester|String|50|Lower-case or upper-case alphabetic characters, and periods|
 *Data dictionary for Volunteer Management System*
 
-**Appendix C: To Be Determined List**
+# **Appendix C: To Be Determined List**
 
 There are no TBD references remaining for this document.
