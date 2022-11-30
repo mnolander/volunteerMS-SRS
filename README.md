@@ -11,8 +11,8 @@
 
 |**Table of Contents**|
 |:-|
-|[**1. Introduction**](https://github.com/mnolander/volunteerMS-SRS/edit/main/SENG%203130%20Assignment%203_4%20-%20SRS%20Document.md#1-introduction)|
-|[1.1 Purpose](https://github.com/mnolander/volunteerMS-SRS/edit/main/SENG%203130%20Assignment%203_4%20-%20SRS%20Document.md#11-purpose)|
+|[**1. Introduction**](https://github.com/mnolander/volunteerMS-SRS#1-introduction)|
+|[1.1 Purpose](https://github.com/mnolander/volunteerMS-SRS#11-purpose)|
 |[1.2 Document Conventions](https://github.com/mnolander/volunteerMS-SRS/edit/main/SENG%203130%20Assignment%203_4%20-%20SRS%20Document.md#12-document-conventions)|
 |[1.3 Intended Audience and Reading Suggestions](https://github.com/mnolander/volunteerMS-SRS/edit/main/SENG%203130%20Assignment%203_4%20-%20SRS%20Document.md#13-intended-audience-and-reading-suggestions)|
 |[1.4 Product Scope](https://github.com/mnolander/volunteerMS-SRS/edit/main/SENG%203130%20Assignment%203_4%20-%20SRS%20Document.md#14-product-scope)|
