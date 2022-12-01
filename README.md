@@ -77,7 +77,7 @@ This system will provide a service that will connect seniors who need help aroun
 |**Volunteer.Create**|**Create New Volunteers**|
 | :- | :- |
 |        .ReceiveDetails|The VMS shall receive the details of the volunteer, including their full name and other information.|
-|                .Exists|If a volunteer with the exact same details already exists in the system, the new volunteer is denied. The VMS shall notify the administrator that a duplicate volunteer was attempted to be created.|
+|        &nbsp;&nbsp;.Exists|If a volunteer with the exact same details already exists in the system, the new volunteer is denied. The VMS shall notify the administrator that a duplicate volunteer was attempted to be created.|
 |        .BackgroundCheck|The VMS shall take the volunteer’s information and send it to the police department to complete a background check.|
 |        .AssignNumber|The VMS shall generate a unique volunteer number for the volunteer.|
 
@@ -86,8 +86,8 @@ This system will provide a service that will connect seniors who need help aroun
 | :- | :- |
 |        .GetRequest|An elderly individual inputs a request for services with a description or calls a service worker who inputs the information for them.|
 |        .CheckAvailability|The system checks the availability that is posted by volunteers.|
-|                .CompareTimes|The system then cross references the availability with the times the services are required.|
-|                        .Multiple|If there are multiple people with availability during the time that the services are required, it will then check which volunteers' preference best matches the request description.|
+|        &nbsp;&nbsp;.CompareTimes|The system then cross references the availability with the times the services are required.|
+|        &nbsp;&nbsp;&nbsp;&nbsp;.Multiple|If there are multiple people with availability during the time that the services are required, it will then check which volunteers' preference best matches the request description.|
 |        .SendRequest|The system then sends a request to the selected volunteer with the details. |
 |        .ReceiveRequest|The volunteer then replies with a confirmation of the task or declines. If declined it loops back to the availability step and repeats the following steps|
 |        .SendConfirmation|Once the volunteer has accepted the system sends a confirmation email with a calendar reminder attachment. |
@@ -96,10 +96,10 @@ This system will provide a service that will connect seniors who need help aroun
 |**DailyReport.Generate**|**Generate Daily Report**|
 | :- | :- |
 |        .EndOfDay|The specified End-of-Day time has been reached.|
-|                .CollectCurrentDayCases|The VMS shall collect all the cases for the current day.|
-|                .CollectPastCases|The VMS shall collect case data from the past.|
-|                .GenerateForecast|The VMS shall consider the current day case data as well as past case data to help formulate a forecast for the next week’s case numbers.|
-|                .DisplayReport|The VMS shall display the generated report of the current day’s cases, along with the next week’s forecast information.|
+|        &nbsp;&nbsp;.CollectCurrentDayCases|The VMS shall collect all the cases for the current day.|
+|        &nbsp;&nbsp;.CollectPastCases|The VMS shall collect case data from the past.|
+|        &nbsp;&nbsp;.GenerateForecast|The VMS shall consider the current day case data as well as past case data to help formulate a forecast for the next week’s case numbers.|
+|        &nbsp;&nbsp;.DisplayReport|The VMS shall display the generated report of the current day’s cases, along with the next week’s forecast information.|
 
 ## 2.3 **User Classes and Characteristics**
 ● **Volunteers (favoured)** - Approved users who have submitted their information into the system and can volunteer for requests. This also includes the student-peers and senior-peers, who get assigned to specific people in need of volunteer work.
