@@ -47,8 +47,7 @@ Indirect user classes
 | Send senior person's health status | Senior-peer submits a senior person's health information and status to the system. | **Primary**: Senior-peer **Secondary**: SPCC staff |
 
 ## 2.4 Use Case Diagram
-
-![](RackMultipart20221202-1-a5o7d3_html_8453125a006d6095.png)
+![](https://user-images.githubusercontent.com/113628428/205224677-e646d0f0-0ea5-4704-9d31-aa6470b66ccd.png)
 
 ## 2.5 "Create New Volunteer" Use Case
 
@@ -82,8 +81,7 @@ Indirect user classes
 ||- Education Check complete
 | **Main Success Scenario** | Volunteer Registered, All Background Checks are Completed, Administrators Approved Application |
 | **Extensions** | Volunteer Fails the Background Check or Education Check (for Student Volunteers) |
-| **Special Requirements** | - Background Check System is Working
- |
+| **Special Requirements** | - Background Check System is Working|
 
 ## 2.7 "Generate Daily Report" Use Case
 
@@ -99,5 +97,4 @@ Indirect user classes
 | **Main Success Scenario** | Administrator Receives Reports Daily and Gets the Next Week's Report Successfully. |
 | **Extensions** | Volunteers aren't being requested leading to no data for reports |
 | **Special Requirements** | - Daily Reports
-||- Algorithm for calculating next week's cases
- |
+||- Algorithm for calculating next week's cases|
