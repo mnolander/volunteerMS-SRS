@@ -10,26 +10,24 @@ September 23, 2022
 
 |**Table of Contents**|
 |:-|
-|Table of Contents|
-|Revision History|
-| Business Requirements|
-|Background|
-| Business Opportunity |
-| Business Objectives and Success Criteria|
-|Customer or Market Needs |
-| Business Risks |
-|Vision of the Solution |
-| Vision Statement |
-|Major Features |
-|Assumptions and Dependencies |
-|Scope and Limitations |
-|Scope of Initial Release |
-|Scope of Subsequent Releases |
-| Limitations and Exclusions |
-|Business Context |
-|Stakeholder Profiles |
-|Project Priorities |
-|Operating Environment|
+| [Business Requirements](https://github.com/mnolander/volunteerMS-SRS/blob/main/VisionScope.md#business-requirements)|
+|[Background](https://github.com/mnolander/volunteerMS-SRS/blob/main/VisionScope.md#background)|
+| [Business Opportunity](https://github.com/mnolander/volunteerMS-SRS/blob/main/VisionScope.md#business-opportunity) |
+| [Business Objectives and Success Criteria](https://github.com/mnolander/volunteerMS-SRS/blob/main/VisionScope.md#business-objectives-and-success-criteria)|
+|[Customer or Market Needs](https://github.com/mnolander/volunteerMS-SRS/blob/main/VisionScope.md#customer-or-market-needs) |
+| [Business Risks](https://github.com/mnolander/volunteerMS-SRS/blob/main/VisionScope.md#business-risks) |
+|[Vision of the Solution](https://github.com/mnolander/volunteerMS-SRS/blob/main/VisionScope.md#vision-of-the-solution) |
+| [Vision Statement](https://github.com/mnolander/volunteerMS-SRS/blob/main/VisionScope.md#vision-statement) |
+|[Major Features](https://github.com/mnolander/volunteerMS-SRS/blob/main/VisionScope.md#major-features) |
+|[Assumptions and Dependencies](https://github.com/mnolander/volunteerMS-SRS/blob/main/VisionScope.md#assumptions-and-dependencies) |
+|[Scope and Limitations](https://github.com/mnolander/volunteerMS-SRS/blob/main/VisionScope.md#scope-and-limitations) |
+|[Scope of Initial Release](https://github.com/mnolander/volunteerMS-SRS/blob/main/VisionScope.md#scope-of-initial-release) |
+|[Scope of Subsequent Releases](https://github.com/mnolander/volunteerMS-SRS/blob/main/VisionScope.md#scope-of-subsequent-releases) |
+| [Limitations and Exclusions](https://github.com/mnolander/volunteerMS-SRS/blob/main/VisionScope.md#limitations-and-exclusions) |
+|[Business Context](https://github.com/mnolander/volunteerMS-SRS/blob/main/VisionScope.md#business-context) |
+|[Stakeholder Profiles](https://github.com/mnolander/volunteerMS-SRS/blob/main/VisionScope.md#stakeholder-profiles) |
+|[Project Priorities](https://github.com/mnolander/volunteerMS-SRS/blob/main/VisionScope.md#project-priorities) |
+|[Operating Environment](https://github.com/mnolander/volunteerMS-SRS/blob/main/VisionScope.md#operating-environment)|
 
 **Revision History**
 
@@ -101,7 +99,7 @@ Dependencies
 
 Our system will be providing an automated background check and a system that allows requests to be put in for volunteer work and then to match those to volunteers. Individuals looking for volunteers will put in a request detailing what they need to be done and when as well as contact information. Then people with matching skills or abilities can confirm and meet those requests.
 
-![](RackMultipart20221202-1-tijd6q_html_cbb2bc51c8373ac1.jpg)
+![](https://github.com/mnolander/volunteerMS-SRS/blob/main/Ecosystem.png?raw=true)
 
 ## **Scope of Subsequent Releases**
 
@@ -123,7 +121,6 @@ Some advanced features, such as viewing archived cases, may not appear on the in
 | Volunteers | Easier to apply | Receptive as they can receive promotions from local businesses | Automatic criminal record check, fast and simple process to apply
 | Schools | Easier and Faster to request multiple volunteers | Very receptive: Would provide possibilities for extra tutoring and coaching for students | Ability to request volunteers faster |
 | Seniors | Easier and Faster to request a volunteer | Receptive: Could get help faster | Ability to request a volunteer quicker |
- |
 
 ## **Project Priorities**
 
